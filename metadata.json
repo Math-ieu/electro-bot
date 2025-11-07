@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Contextual Chatbot",
+  "description": "A contextual chatbot for an e-commerce application, powered by the Gemini API. It can answer questions about electronic products, orders, and provide assistance to users.",
+  "requestFramePermissions": []
+}
